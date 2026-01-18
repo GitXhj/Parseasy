@@ -89,10 +89,10 @@ Parseasy is designed to work with **user-provided music sources**.
 Example (interface only):
 
 ```dart
-abstract class MusicSource {
-  Future<List<Track>> search(String keyword);
-  Future<Uri> getPlaybackUrl(String trackId);
-}
+class ApiService {
+  static const String searchApi = 'api_search';
+  static const String parseApi = 'api_music';
+
 ```
 
 > Implementations are intentionally **not included** in this repository.
