@@ -60,6 +60,7 @@ All music data must be provided by the user through **custom implementations**.
 ---
 
 ## 🚀 Getting Started
+**Code in the master branch**
 
 ### Clone the repository
 
