@@ -121,13 +121,5 @@ See the [LICENSE](LICENSE) file for details.
 Issues and pull requests are welcome.  
 This project focuses on **UI, architecture, and playback logic**.
 
----
-
-## ❤️ Acknowledgements
-
-- Flutter Team
-- Open-source community
-```
-
----
+**If you find this project helpful, please consider giving it a ⭐️.**
 
