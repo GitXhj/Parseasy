@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" width="120" />
+  <img src="assets/icon.png" width="120" />
 </p>
 
 <h1 align="center">🎵 Parseasy</h1>
@@ -50,9 +50,9 @@ All music data must be provided by the user through **custom implementations**.
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/screenshot1.png" width="30%" />
-  <img src="screenshots/screenshot2.png" width="30%" />
-  <img src="screenshots/screenshot3.png" width="30%" />
+  <img src="assets/screen2.png" width="30%" />
+  <img src="assets/screen3.png" width="30%" />
+  <img src="assets/screen4.png" width="30%" />
 </p>
 
 > Screenshots are for UI demonstration only
