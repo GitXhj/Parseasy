@@ -50,9 +50,9 @@ All music data must be provided by the user through **custom implementations**.
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/screen2.png" width="30%" />
-  <img src="assets/screen3.png" width="30%" />
-  <img src="assets/screen4.png" width="30%" />
+  <img src="assets/screen2.jpeg" width="30%" />
+  <img src="assets/screen3.jpeg" width="30%" />
+  <img src="assets/screen4.jpeg" width="30%" />
 </p>
 
 > Screenshots are for UI demonstration only
