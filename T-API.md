@@ -2,4 +2,4 @@ This is a free test of NetEase Cloud's third-party API. This API is for testing 
 
 **https://api.kxzjoker.cn/doc-163_search.**
 
-**://api.kxzjoker.cn/doc-163_music.**
+**https://api.kxzjoker.cn/doc-163_music.**
