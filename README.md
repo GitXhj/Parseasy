@@ -35,8 +35,7 @@ It focuses on:
 This project **does not include any built-in music source**.  
 All music data must be provided by the user through **custom implementations**.
 
-**However, there is a third-party API for testing non-commercial to use**
-./T-API.md
+<a href="./T-API.md">**However, there is a third-party API for testing non-commercial to use**</a>
 
 
 ---
